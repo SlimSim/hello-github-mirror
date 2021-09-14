@@ -18,3 +18,4 @@ http://k33g.github.io/2014/08/16/CHROMEAPP-POLYMER-CHROMEBOOK.html
 och pusha den till github???
 
 lite synd att man inte kan klona med brancher... (eller kan man det?)
+
